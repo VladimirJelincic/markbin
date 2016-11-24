@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="DropGit" uploadOnCheckin="c49fd299-ef9c-4571-aa4d-912ca5d2db7a">
+    <serverData>
+      <paths name="DropGit">
+        <serverdata>
+          <mappings>
+            <mapping deploy="~/Dropbox/git" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="DropGit" />
+  </component>
+</project>
